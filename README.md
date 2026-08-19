@@ -86,6 +86,10 @@ and users notice the difference quickly.
   cloth set. Filtering set progress by the character's armour type hides most of
   the answer.
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md). Current release: **v1.0.0**.
+
 ## Licence
 
 MIT. Built by [Sector 5 Development](https://github.com/bryansanchez379-ui) — we
