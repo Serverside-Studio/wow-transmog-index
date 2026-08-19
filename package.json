@@ -1,0 +1,13 @@
+{
+  "name": "wow-transmog-index",
+  "version": "1.0.0",
+  "description": "Build a reverse index of World of Warcraft item sources from Blizzard's Game Data API — item to boss, profession and transmog set.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["wow", "world-of-warcraft", "blizzard", "battle-net", "transmog", "discord-bot"],
+  "scripts": {
+    "build:journal": "node src/build-journal-index.mjs",
+    "build:sources": "node src/build-source-index.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
