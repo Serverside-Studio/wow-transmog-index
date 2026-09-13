@@ -91,7 +91,7 @@ and users notice the difference quickly.
 This index powers a live Discord tool: type an item name, get the boss that drops
 it, the set it belongs to, and whether an easier item shares the same appearance.
 If you want that in your guild rather than building it yourself,
-[Sector 5 Development](https://github.com/bryansanchez379-ui) builds guild tooling
+[Serverside](https://github.com/bryansanchez379-ui) builds guild tooling
 on Blizzard's API.
 
 ## Changelog
@@ -100,7 +100,7 @@ See [CHANGELOG.md](CHANGELOG.md). Current release: **v1.0.0**.
 
 ## Licence
 
-MIT. Built by [Sector 5 Development](https://github.com/bryansanchez379-ui) — we
+MIT. Built by [Serverside](https://github.com/bryansanchez379-ui) — we
 build the software game communities run on.
 
 World of Warcraft and the Battle.net API are trademarks of Blizzard Entertainment.

@@ -29,4 +29,4 @@ First public release.
 - Rebuilding costs roughly 1,260 API calls for the journal pass and 22,700 for
   professions. Run it when a patch adds content, not on a schedule.
 
-[1.0.0]: https://github.com/bryansanchez379-ui/wow-transmog-index/releases/tag/v1.0.0
+[1.0.0]: https://github.com/Serverside-Studio/wow-transmog-index/releases/tag/v1.0.0
